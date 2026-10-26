@@ -3,6 +3,13 @@
 ## Project overview
 This independent spreadsheet portfolio project uses fictional event expense data to demonstrate how planned budgets can be compared with actual spending. The dashboard summarizes overall budget performance and helps identify expense lines that may need follow-up.
 
+## Open the project
+- **Google Sheets version (best for interactive review):** [Open the live spreadsheet](https://docs.google.com/spreadsheets/d/1jMRoZYLB5Gs5_3jOQq6xcsNIJHr3LuZ9pVqtuW0Do3k/edit?usp=sharing)
+- **PDF portfolio report:** Download `Event Budget & Expense Analysis Portfolio Project.pdf` from this repository.
+- **Excel workbook:** Download `Event Budget & Expense Analysis Portfolio Project.xlsx` from this repository.
+
+The PDF is the best way to view the report layout and summary tables consistently. The Google Sheets link is the best option for exploring the working spreadsheet. The Excel download is provided as an additional workbook format; pivot-table layouts can display differently when moved between spreadsheet applications.
+
 ## Business question
 How does actual event spending compare with planned budgets, and which expense categories or events need attention?
 
@@ -36,9 +43,10 @@ A positive variance means actual spending was higher than the planned budget.
 Review the seven over-budget expense lines to understand the causes of overspending. Use event- and category-level summaries to prioritize follow-up with vendors and improve estimates for future events.
 
 ## How to review
-1. Open the spreadsheet workbook in this repository.
-2. Review the event-level data and the variance/status calculations.
-3. Open the dashboard to see the summary KPIs and visual reporting.
+1. Open the Google Sheets version to explore the project.
+2. Review the event-level data and variance/status calculations.
+3. Review the PDF for the formatted category summary, event summary, and dashboard.
+4. Download the Excel workbook if you want to inspect the workbook structure.
 
 ## Data note
 All data in this project is fictional and was created for portfolio practice. It does not represent actual client or employer financial information.
