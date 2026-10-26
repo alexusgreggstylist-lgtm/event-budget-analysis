@@ -6,7 +6,7 @@ This independent spreadsheet portfolio project uses fictional event expense data
 ## Open the project
 - **Google Sheets version (best for interactive review):** [Open the live spreadsheet](https://docs.google.com/spreadsheets/d/1jMRoZYLB5Gs5_3jOQq6xcsNIJHr3LuZ9pVqtuW0Do3k/edit?usp=sharing)
 - **PDF portfolio report:** [View or download the PDF](Event%20Budget%20%26%20Expense%20Analysis%20Portfolio%20Project.pdf)
-- **Excel workbook:** [View or download the Excel workbook](%22Event%20Budget%20%26%20Expense%20Analysis%20Portfolio%20Project%20(2).xlsx%22)
+- **Excel workbook:** [View or download the Excel workbook](Event%20Budget%20%26%20Expense%20Analysis%20Portfolio%20Project%20%282%29.xlsx)
 
 The PDF is the best way to view the report layout and summary tables consistently. The Google Sheets link is the best option for exploring the working spreadsheet. The Excel download is provided as an additional workbook format; pivot-table layouts can display differently when moved between spreadsheet applications.
 
